@@ -11,3 +11,4 @@ for number in range(1, 101):
 
 # Print the result
 print("The sum of all even numbers between 1 and 100 is:", total_sum)
+
